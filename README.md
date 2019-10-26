@@ -16,6 +16,6 @@ File->Settings->Project->Project Interpreter
 Clicking on the + sign opens the library install window  \
 ![tutimage2](https://github.com/khalilbego1/MPVI/blob/master/info_images/info2.PNG)
 (when installing libraries, check the "Specify version" checkbox  \
-The required libraries are:  \
+The required libraries are:  
 - tensorflow (this one will take a while)
 - keras
