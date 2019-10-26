@@ -11,7 +11,7 @@
  
 Installing libraries to PyCharm:
 File->Settings->Project->Project Interpreter
-![tutimage1](https://imgur.com/4rSptDG)
+<blockquote class="imgur-embed-pub" lang="en" data-id="4rSptDG"><a href="//imgur.com/4rSptDG">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Clicking on the + sign opens the library install window
 ![tutimage1](https://imgur.com/RnLbMpH)
