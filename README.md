@@ -9,3 +9,13 @@
  Install PyCharm from Jetbrains: (professional available for free with student licence)
  https://www.jetbrains.com/pycharm/download/#section=windows
  
+Installing libraries to PyCharm:
+File->Settings->Project->Project Interpreter
+![tutimage1](https://imgur.com/4rSptDG)
+
+Clicking on the + sign opens the library install window
+![tutimage1](https://imgur.com/RnLbMpH)
+(when installing libraries, check the "Specify version" checkbox
+The required libraries are:
+tensorflow (this one will take a while)
+keras
