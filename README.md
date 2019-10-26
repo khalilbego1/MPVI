@@ -11,10 +11,10 @@
  
 Installing libraries to PyCharm:
 File->Settings->Project->Project Interpreter
-<blockquote class="imgur-embed-pub" lang="en" data-id="4rSptDG"><a href="//imgur.com/4rSptDG">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![tutimage1](/info_images/info1.png)
 
 Clicking on the + sign opens the library install window
-![tutimage1](https://imgur.com/RnLbMpH)
+![tutimage2](/info_images/info2.png)
 (when installing libraries, check the "Specify version" checkbox
 The required libraries are:
 tensorflow (this one will take a while)
