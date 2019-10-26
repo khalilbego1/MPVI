@@ -11,7 +11,7 @@
  
 Installing libraries to PyCharm:
 File->Settings->Project->Project Interpreter
-![tutimage1](/info_images/info1.png)
+![tutimage1](https://github.com/khalilbego1/MPVI/blob/master/info_images/info1.PNG)
 
 Clicking on the + sign opens the library install window
 ![tutimage2](/info_images/info2.png)
